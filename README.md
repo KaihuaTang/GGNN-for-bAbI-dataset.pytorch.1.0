@@ -1,2 +1,2 @@
-# GGNN-for-bAbI-dataset.pytorch1.0
-A PyTorch 1.0 Implementation of Gated Graph Sequence Neural Networks (GGNN)
+# Experiment on bAbI
+1. Folder bAbI: Tested on bAbI Task 4,15,16,18,19
